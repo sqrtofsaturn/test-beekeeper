@@ -1,0 +1,8 @@
+{
+  "name": "test-beekeeper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sqrtofsaturn/test-beekeeper.git",
+  "author": "sqrtofsaturn <sqrtofsaturn@gmail.com>",
+  "license": "MIT"
+}
