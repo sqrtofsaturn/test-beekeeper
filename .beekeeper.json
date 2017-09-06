@@ -1,3 +1,6 @@
 {
-  "owner": "sqrtofsaturn"
+  "owner": "sqrtofsaturn",
+  "codefresh": {
+    "enabled": false
+  }
 }
