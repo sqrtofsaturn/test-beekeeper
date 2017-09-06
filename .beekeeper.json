@@ -6,8 +6,8 @@
   "github": {
     "release": {
       "enabled": true,
-      "draft": false,
-      "prerelease": false
+      "draft": true,
+      "prerelease": true
     }
   }
 }
