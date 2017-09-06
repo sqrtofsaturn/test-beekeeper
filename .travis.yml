@@ -1,0 +1,9 @@
+language: go
+go:
+  - '1.9'
+branches:
+  only:
+    - '/^v[0-9]/'
+notifications:
+  webhooks:
+    - 'https://beekeeper.octoblu.com/webhooks/travis:ci'
