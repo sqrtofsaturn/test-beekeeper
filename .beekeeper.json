@@ -3,7 +3,7 @@
      "owner": "sqrtofsaturn"
   },
   "beekeeper": {
-    "enabled": false
+    "enabled": true
   },
   "codefresh": {
     "enabled": false
