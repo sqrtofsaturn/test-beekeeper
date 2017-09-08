@@ -1,6 +1,10 @@
 {
-  "owner": "sqrtofsaturn",
-  "enabled": false,
+  "project": {
+     "owner": "sqrtofsaturn"
+  },
+  "beekeeper": {
+    "enabled": false
+  },
   "codefresh": {
     "enabled": false
   },
